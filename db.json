@@ -1,0 +1,33 @@
+{
+  "dev":{
+     "header":{
+        "name":"Thiago Gonçalves",
+        "developer":"Front End Developer"
+     },
+     "contact":{
+        "phone":"968098975",
+        "email":"thiagodiogenes@yahoo.com.br",
+        "logo_face":"data:image/jpeg;base64,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",
+        "logo_gmail":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAb1BMVEX///8AAADj4+PZ2dkEBAQfHx+kpKSOjo5eXl5hYWESEhL09PT5+fmRkZFzc3NmZmaqqqrq6uo5OTnT09O7u7t/f39tbW1MTExAQEB5eXkaGhorKyu1tbULCwsWFhaFhYWbm5vGxsYyMjJISEhQUFBZUH3uAAAEc0lEQVR4nO1b65ajIAwWtWrV3q+O07l13v8Zt2qxGgINFjbn7NnvLw35iklIAgTBf0xDGe2TxWF5XK2Oy8Mi2Ufl39MdrqvTLBYA8exUrUPvyjdJNoOqh5hlycaf9jDdmpRLbFMvC1EmZ4r2DufEtUmEVU5X3yCvXC5DlCk29xxxFjlSH84nqG8pzF2sQlFdpqlvcKmKV/Wv36arb/C2fkl9eHpNfYPTC99hbWn6OPKpi1BkLtQ3yCZZQlS70i9EPcEj350sv0T+bqt/MdH3dYgXdvort+obVDb6j+71C3Gk65/70C/EnPX/NyCugYfvL0Gyg4U//UIQfOHdsf+NET+NB5HT+KMifxITC4fxF0dt3hec7T96ZCb9a//6hTDszqFnA+iQ6zMUB/kPBSfWD9BA8xEKJf+s093LWW2xSxXPesNnhSE4Xjiqr8oUBjc0JIcg/4/3btQ32AMGF8wO4R5smcKYkYLJkZ05AiRrp/VtCewgViMyjIGpS/3qEijxMIR2snNLYAemj6EVKFnIy/43RgHnB45QKkFYjrR0jxPoFMcYzjNEPraxBI4DQfsiV5bVOgIiGf1c7f9AwatVdRVddfP0OA9/HyrDquDlk+yY5edFP0+PoRlCJ8EFa2Js3Nfmee4YOjrS/0MFM0IXcpM9n6fFdiCjjmoE869n+r9yyjwtHv9G9QG94NYYoXbKWhoIPPwAS0W1gvFSGxSKpVpUGAg8wjHWfzYIzjTVxbvtPHIMcUKjoBC/yH4e/qI/Nc0jZ0FzQSMBcUlBUChTTT/TNI8Mr2g5DAXh/PX3UP83zPv6n5sIyA0JzcahYKRE61XvRpsVHDtHFAIyP0fPQKCg6uHi4+5HyQcYaKIFhcDdCku0IFcJwBgnmj9623eUpWnjJYVA3BlShI1hBBBHiw8HSP/upBQCotth93QCaKgZM5JhikSg292wQKwjcAu2Pyb9PzudHPrzzojwppBuIr3Hj6MDiUBXexzsCNxi3hWVENdhfCQROLRDS1sCiOOJh1PaEFi2Q3hf0kgg2CjN1DnIVUgEus6lEsYIBEDehWRrJAKrFwgEZdV7ZFyp+aoFgSmfoIVMf9AkiUSg+wQTjFBicfPIC17Hkwh0RmjthgOEv1huQibQuaFlICKCRKBbPLtQ7JRAFzpsNiPHBDrntdiOXRPotmNyQuKcwD0hoaZk7gnIwoCUlPogIJNSUlrug4BMy0mFiQ8CsjAhlWY+CPRBlFJUeiDQF6ek8twDgUd5TmlQeCDwyOEoLRoPBAZJHKFJ5Z7AoElFadO5JzBs0xEale4JjDKZ561a5wRGrdqnzWoPBMZ1jLld74MAaNezH1jwH9mwH1rxH9uxH1zyH92yH17zH9+zX2Dgv8LBf4mF/RoP/0Um/qtc7JfZ+K/z8V9o5L/SyX+plf9aL//FZv6r3fyX2/mv9/M/cOB/4hGwP3IJ+J/5BOwPnQL+p14B+2O3BszP/RowP3hswPzkswXvo9cOvM9+72B9+NyD8+n3P4Y/jnlBBTMWulwAAAAASUVORK5CYII=",
+        "logo_skype":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FieDX8oYWa3bhPdaxMHZV8Q98zWh06XDribN-vimNe00fuORzg&s",
+        "logo_linkdin":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3sdmoVzR1fpG1Fnjdiph0-T2fgH6wF7Xj_aNXRuFRpvAi9vKspg&s"
+     },
+     "profile":{
+        "avatar":"https://avatars2.githubusercontent.com/u/57046662?s=460&v=4",
+        "description":"Perfil dinâmico, prático e com foco nos resultados, buscando sempre fortalecer e estreitar o relacionamento com as áreas de negócios e tecnologia"
+     },
+     "experiences":[
+        {
+           "company":"Compasso",
+           "time":"2018 - até o momento",
+           "occupation":"Front-End Developer",
+           "activities":"Desenvolvimento de Landing Pages e Widgets, elaboração e configuração de componentes no OCC (Oracle)"
+        }
+     ],
+     "education":{
+        "university":"Uninove",
+        "course":"Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "time":"2011 - 2014"
+     }
+  }
+}
